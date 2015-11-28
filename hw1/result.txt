@@ -1,0 +1,42 @@
+i = 1, total margin  = 61
+i = 2, total margin  = 73
+i = 3, total margin  = 83
+i = 4, total margin  = 90
+i = 5, total margin  = 94
+i = 6, total margin  = 96
+i = 7, total margin  = 98
+i = 8, total margin  = 98
+
+
+i = 1, total margin  = 612
+i = 2, total margin  = 737
+i = 3, total margin  = 838
+i = 4, total margin  = 908
+i = 5, total margin  = 951
+i = 6, total margin  = 974
+i = 7, total margin  = 986
+i = 8, total margin  = 993
+
+For m = 10, the execute time is 330 milliseconds.
+For m = 100, the execute time is 442 milliseconds.
+For m = 1000, the execute time is 610 milliseconds.
+For m = 10000, the execute time is 692 milliseconds.
+For m = 100000, the execute time is 760 milliseconds.
+For m = 1000000, the execute time is 742 milliseconds.
+For m = 10000000, the execute time is 813 milliseconds.
+
+For m = 1, margin = 0.0,  the execute time is 882 milliseconds.
+For m = 2, margin = 0.0,  the execute time is 781 milliseconds.
+For m = 3, margin = 900.0,  the execute time is 800 milliseconds.
+For m = 4, margin = 9900.0,  the execute time is 971 milliseconds.
+For m = 5, margin = 99306.0,  the execute time is 1160 milliseconds.
+For m = 6, margin = 993633.0,  the execute time is 1253 milliseconds.
+For m = 7, margin = -6840559.0,  the execute time is 1353 milliseconds.
+
+For m = 1, margin = 9,  the execute time is 920 milliseconds.
+For m = 2, margin = 98,  the execute time is 761 milliseconds.
+For m = 3, margin = 993,  the execute time is 943 milliseconds.
+For m = 4, margin = 9936,  the execute time is 1271 milliseconds.
+For m = 5, margin = -68414,  the execute time is 1553 milliseconds.
+For m = 6, margin = -12953,  the execute time is 1641 milliseconds.
+For m = 7, margin = 38049,  the execute time is 1751 milliseconds.

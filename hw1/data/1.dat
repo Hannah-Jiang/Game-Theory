@@ -1,0 +1,7 @@
+data; 
+param n := 2; 
+param c:  1 2 := 
+1  44 521
+2  671 74
+; 
+ end;
